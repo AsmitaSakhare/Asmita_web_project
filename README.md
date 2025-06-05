@@ -56,7 +56,7 @@ This project demonstrates a complete CI/CD pipeline using AWS services to build,
 ## 📍 LinkedIn Project Log
 
 I've been documenting each day's progress of this project on LinkedIn.  
-👉 [Check it out here]([https://www.linkedin.com/in/YOUR-LINKEDIN-POST](https://www.linkedin.com/posts/asmitasakhare_devops-cicd-aws-activity-7336279198799466497-yfAa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5ElDgBhu1iIfjTnh3tuon3JIPnGPnj66E)) 
+👉 [(https://www.linkedin.com/posts/asmitasakhare_devops-cicd-aws-activity-7336279198799466497-yfAa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5ElDgBhu1iIfjTnh3tuon3JIPnGPnj66E)]
 
 ## 📦 Folder Structure
 
@@ -80,8 +80,8 @@ project-root/
 
 ## ✨ Author
 
-- [Your Name]([https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/asmitasakhare/))
-- [GitHub Profile]([https://github.com/YOUR-GITHUB](https://github.com/AsmitaSakhare))
+- [(https://www.linkedin.com/in/asmitasakhare/)]
+- [(https://github.com/AsmitaSakhare)]
 
 ---
 
