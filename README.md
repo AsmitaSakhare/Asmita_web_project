@@ -1,8 +1,3 @@
-
-
----
-
-```markdown
 # 🚀 Full CI/CD Pipeline with AWS
 
 This project demonstrates a complete CI/CD pipeline using AWS services to build, test, and deploy a Java-based web application. The pipeline automates the process from pushing code to production deployment on an EC2 instance.
