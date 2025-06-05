@@ -1,3 +1,8 @@
+
+
+---
+
+```markdown
 # 🚀 Full CI/CD Pipeline with AWS
 
 This project demonstrates a complete CI/CD pipeline using AWS services to build, test, and deploy a Java-based web application. The pipeline automates the process from pushing code to production deployment on an EC2 instance.
@@ -45,19 +50,16 @@ This project demonstrates a complete CI/CD pipeline using AWS services to build,
 - Connect GitHub (source), CodeBuild (build), and CodeDeploy (deploy)
 
 ## 📸 Project Screenshots
-
-![Screenshot 2025-06-05 115254](https://github.com/user-attachments/assets/c3c7fe44-095f-4313-9908-2ca2f1022a49)
-
+![Screenshot 2025-06-05 115254](https://github.com/user-attachments/assets/5d3db2f0-3d75-4cee-baaf-033211ff399d)
 
 ## 📍 LinkedIn Project Log
 
 I've been documenting each day's progress of this project on LinkedIn.  
-👉 [Check it out here]((https://www.linkedin.com/posts/asmitasakhare_devops-cicd-aws-activity-7336279198799466497-yfAa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5ElDgBhu1iIfjTnh3tuon3JIPnGPnj66E))  
-(Replace with your actual post or article link.)
+👉 [Check it out here]((https://www.linkedin.com/posts/asmitasakhare_devops-cicd-aws-activity-7336279198799466497-yfAa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5ElDgBhu1iIfjTnh3tuon3JIPnGPnj66E)) 
 
 ## 📦 Folder Structure
 
-
+```
 
 project-root/
 │
@@ -67,7 +69,7 @@ project-root/
 ├── cloudformation/       # Infrastructure as code scripts
 ├── README.md             # Project documentation
 
-
+```
 
 ## ✅ Outcome
 
@@ -77,9 +79,11 @@ project-root/
 
 ## ✨ Author
 
-- [Asmita_Sakhare]((https://www.linkedin.com/in/asmitasakhare/))
+- [Asmita Sakhare]((https://www.linkedin.com/in/asmitasakhare/))
 - [GitHub Profile]((https://github.com/AsmitaSakhare))
 
 ---
+
+
 
 
